@@ -1,4 +1,3 @@
-!pip install --quiet google-colab transformers diffusers accelerate torch ftfy modin[all] xformers invisible_watermark gradio==3.29.0 >/dev/null
 import gradio as gr
 import torch
 import numpy as np
